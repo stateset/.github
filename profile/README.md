@@ -1,2 +1,1 @@
-# StateSet
-## Autonomous Commerce Operations
+# StateSet: Intelligent Commerce Operations
