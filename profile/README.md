@@ -93,7 +93,7 @@ If you’re proposing a new integration or agent skill, include:
 
 ### Security
 
-If you discover a vulnerability or have a security question, please email **support@stateset.com**.  
+If you discover a vulnerability or have a security question, please email **security@stateset.com**.  
 We appreciate responsible disclosure and will work with you to verify and address issues.
 
 ---
