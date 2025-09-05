@@ -69,7 +69,8 @@ We focus on **outcomes over clicks**: fewer tools, fewer tickets, lower costs, h
 
 - **Agents & Dev Tools**
   - ▸ [stateset-mcp-server](https://github.com/stateset/stateset-mcp-server) — MCP server for agent integrations
-  - ▸ [stateset-ai](https://github.com/stateset/stateset-ai) — Research notebooks & model experiments
+  - ▸ [stateset-data-studio](https://github.com/stateset/stateset-data-studio) — Data Studio for Synthetic Data Generation
+  - ▸ [stateset-agents](https://github.com/stateset/stateset-agents) — RL AI Agents Framework
   - ▸ [stateset-zone-app](https://github.com/stateset/stateset-zone-app) — Web client for network transactions
 
 > Tip: Each repo has setup instructions, API references, and its own license.
