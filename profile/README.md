@@ -39,39 +39,12 @@ We focus on **outcomes over clicks**: fewer tools, fewer tickets, lower costs, h
 
 ---
 
-### What you’ll find in this org
-
-- **Agents & Apps**
-  - *ResponseCX Agents* (Order Care, Returns Care, Subscription Care)
-  - Operational apps for orders, shipments, inventory, warranties, and manufacturing
-- **SDKs & APIs**
-  - Client libraries and typed SDKs for Node.js, Python, Rust, PHP, and Ruby
-  - GraphQL + REST endpoints, webhooks, and background job orchestration
-- **Integrations**
-  - Connectors for Shopify, TikTok Shop, Amazon, NetSuite, 3PLs (e.g., DCL), helpdesks (Gorgias), returns (Loop/ReturnLogic), payments, and more
-- **Infrastructure & Tooling**
-  - Temporal workflows, Hasura/GraphQL, OAuth 1.0a for NetSuite, Tendermint/ABCI modules, observability utilities
-
----
-
 ### Selected repositories
 
-- **Core & Engine**
-  - ▸ [core](https://github.com/stateset/core) — Cosmos SDK / Tendermint proof‑of‑stake node
-  - ▸ [stateset-api](https://github.com/stateset/stateset-api) — Rust API services
-
-- **SDKs**
-  - ▸ [stateset-node](https://github.com/stateset/stateset-node) — Node.js client
-  - ▸ [stateset-python](https://github.com/stateset/stateset-python) — Python client
-  - ▸ [stateset-rust](https://github.com/stateset/stateset-rust) — Rust SDK
-  - ▸ [stateset-php](https://github.com/stateset/stateset-php) — PHP client
-  - ▸ [stateset-ruby](https://github.com/stateset/stateset-ruby) — Ruby client
-
-- **Agents & Dev Tools**
-  - ▸ [stateset-mcp-server](https://github.com/stateset/stateset-mcp-server) — MCP server for agent integrations
-  - ▸ [stateset-data-studio](https://github.com/stateset/stateset-data-studio) — Data Studio for Synthetic Data Generation
-  - ▸ [stateset-agents](https://github.com/stateset/stateset-agents) — RL AI Agents Framework
-  - ▸ [stateset-zone-app](https://github.com/stateset/stateset-zone-app) — Web client for network transactions
+- **L2, Sequencer & Engine**
+  - ▸ [set](https://github.com/stateset/set) — Set L2 Blockchain
+  - ▸ [stateset-sequencer](https://github.com/stateset/stateset-sequencer) — StateSet Sequencer
+  - ▸ [stateset-icommerce](https://github.com/stateset/stateset-icommerce) — StateSet iCommerce Engine
 
 > Tip: Each repo has setup instructions, API references, and its own license.
 
